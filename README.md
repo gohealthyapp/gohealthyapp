@@ -1,5 +1,11 @@
-### Hi there 👋
+### CHAU GITHUB PROJECT 👋
+Download the CHAU android mobile application for BCC, Hotspots mapping and referral service.
 
+- 🌱 CHAU GoHealthy Download link. 🌱
+- https://bit.ly/chauGHO
+
+- 🌱 CHAU Referral Download Link. 🌱
+- https://bit.ly/chauBFJ
 <!--
 **gohealthyapp/gohealthyapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
